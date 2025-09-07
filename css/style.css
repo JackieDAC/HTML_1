@@ -1,0 +1,65 @@
+h1 {
+  /* (command + /) để tạo ghi chú */
+  size: 100px;
+  color: rgb(255, 162, 0);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 20px;
+  background-color: rgb(151, 1, 1);
+}
+h2 {
+  size: 40px;
+  color: rgb(151, 1, 1);
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+  background-color: rgb(255, 179, 0);
+  border-radius: 10px;
+  padding: 10px;
+  margin-right: 60px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h3 {
+  size: 30px;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 40px;
+}
+p {
+  size: 20px;
+  color: rgb(0, 0, 0);
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 60px;
+  margin-right: 60px;
+  background-color: rgba(139, 68, 13, 0.5);
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+body {
+  background-image: url(../img/BG_3.jpg);
+  background-size: cover;
+}
+ol {
+  size: 20px;
+  color: rgb(255, 255, 255);
+
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+ul {
+  size: 20px;
+  color: rgb(255, 255, 255);
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 60px;
+  margin-right: 60px;
+}
